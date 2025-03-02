@@ -1,0 +1,8 @@
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/InventoryManagementSystemApplication.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/controller/ProductController.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/entity/Product.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/javafx/MainApp.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/javafx/controller/MainController.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/repository/ProductRepository.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/service/CsvLoader.java
+/Users/jnima/InventoryManagementSystem/inventory-management-system/src/main/java/com/example/inventory/service/ProductService.java

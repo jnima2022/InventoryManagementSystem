@@ -1,0 +1,8 @@
+com/example/inventory/repository/ProductRepository.class
+com/example/inventory/service/CsvLoader.class
+com/example/inventory/javafx/controller/MainController.class
+com/example/inventory/entity/Product.class
+com/example/inventory/controller/ProductController.class
+com/example/inventory/javafx/MainApp.class
+com/example/inventory/service/ProductService.class
+com/example/inventory/InventoryManagementSystemApplication.class

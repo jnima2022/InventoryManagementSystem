@@ -1,0 +1,125 @@
+/* Root styling for the VBox */
+.root {
+    -fx-background-color: #f5f5f5;
+    -fx-padding: 20;
+}
+
+/* Title styling */
+.title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-padding: 0 0 20 0;
+}
+
+/* Field labels */
+.field-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #555555;
+}
+
+/* Search field */
+.search-field {
+    -fx-pref-width: 250px;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+    -fx-font-size: 14px;
+}
+
+/* Input fields */
+.input-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+    -fx-font-size: 14px;
+}
+
+/* Table styling */
+.table-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #e0e0e0;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}
+
+.table-view .column-header {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-padding: 8;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #ffffff;
+}
+
+.table-row-cell {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #e0e0e0;
+    -fx-padding: 5;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #f9f9f9;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #81C784;
+}
+
+/* Green buttons (Add Product, Search) */
+.action-button {
+    -fx-background-color: #4CAF50; /* Green */
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+    -fx-padding: 8 15;
+    -fx-background-radius: 5;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 5, 0, 0, 1);
+}
+
+.action-button:hover {
+    -fx-background-color: #45A049; /* Darker green */
+}
+
+.action-button:pressed {
+    -fx-background-color: #388E3C; /* Even darker green */
+}
+
+/* Orange button (Update Selected) */
+.update-button {
+    -fx-background-color: #FF9800; /* Orange */
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+    -fx-padding: 8 15;
+    -fx-background-radius: 5;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 5, 0, 0, 1);
+}
+
+.update-button:hover {
+    -fx-background-color: #F57C00; /* Darker orange */
+}
+
+.update-button:pressed {
+    -fx-background-color: #EF6C00; /* Even darker orange */
+}
+
+/* Red buttons (Delete Selected, Clear Search) */
+.delete-button, .clear-button {
+    -fx-background-color: #F44336; /* Red */
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+    -fx-padding: 8 15;
+    -fx-background-radius: 5;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 5, 0, 0, 1);
+}
+
+.delete-button:hover, .clear-button:hover {
+    -fx-background-color: #D32F2F; /* Darker red */
+}
+
+.delete-button:pressed, .clear-button:pressed {
+    -fx-background-color: #C62828; /* Even darker red */
+}

@@ -1,0 +1,201 @@
+id,name,price,quantity
+1,Kellogg’s Frosted Flakes,97.18,81
+2,Pilot G2 Gel Pens,238.75,39
+3,Google Nest Hub Max,21.4,42
+4,Apple iPhone 14,175.59,69
+5,Downy Ultra Fabric Softener,288.73,16
+6,L'Oreal Paris Revitalift Serum,293.84,46
+7,Canon EOS R6 Camera,478.46,21
+8,Oral-B Pro 1000 Electric Toothbrush,41.09,26
+9,Instant Pot Duo 7-in-1,56.47,73
+10,LG OLED55C3 TV,294.38,35
+11,Samsung Galaxy S23,286.81,35
+12,Tide Pods Laundry Detergent,290.2,31
+13,Samsung 65-inch QLED TV,165.51,29
+14,Kellogg’s Frosted Flakes,219.4,88
+15,Google Nest Hub Max,39.81,88
+16,Bose QuietComfort Earbuds,85.35,12
+17,Starbucks Pike Place Roast,321.61,34
+18,Tylenol Extra Strength,68.71,66
+19,Lay’s Classic Potato Chips,66.84,47
+20,Adidas Ultraboost,388.31,62
+21,Samsung 65-inch QLED TV,190.62,60
+22,Logitech MX Master 3S,236.47,12
+23,Amazon Echo Show 10,456.96,79
+24,HP Envy x360,296.4,61
+25,Charmin Ultra Soft Toilet Paper,81.56,4
+26,Barilla Spaghetti Pasta,483.49,95
+27,Xbox Series X,138.22,71
+28,Samsung Galaxy S23,194.78,40
+29,Doritos Nacho Cheese,427.06,15
+30,Funko Pop! Spider-Man,234.35,9
+31,Logitech MX Master 3S,405.73,73
+32,Gatorade Thirst Quencher,388.89,22
+33,Folgers Classic Roast Coffee,74.63,81
+34,iRobot Roomba j7+,96.54,18
+35,Bounty Quick-Size Paper Towels,402.73,84
+36,Xbox Series X,401.28,86
+37,Ring Video Doorbell Pro 2,462.08,9
+38,Samsung 65-inch QLED TV,443.79,66
+39,Kind Dark Chocolate Nuts & Sea Salt,48.92,60
+40,Crayola 24-Count Crayons,153.8,61
+41,Nike Air Max 270,380.78,89
+42,CeraVe Hydrating Facial Cleanser,158.16,81
+43,Kind Dark Chocolate Nuts & Sea Salt,323.21,28
+44,Ziploc Freezer Bags,83.34,70
+45,Gatorade Thirst Quencher,403.51,90
+46,Neutrogena Hydro Boost Water Gel,478.75,73
+47,Pepsi Wild Cherry,193.9,32
+48,Ziploc Freezer Bags,97.38,42
+49,Adidas Ultraboost,411.49,91
+50,LG OLED55C3 TV,236.64,3
+51,Adidas Ultraboost,307.07,57
+52,Amazon Echo Show 10,420.89,34
+53,Dove Deep Moisture Body Wash,33.83,69
+54,Barilla Spaghetti Pasta,457.5,51
+55,Breville Barista Express,441.09,66
+56,Advil Liquid Gels,274.85,93
+57,Sony Alpha a7 IV,271.88,61
+58,Ring Video Doorbell Pro 2,110.75,89
+59,Google Nest Hub Max,250.91,48
+60,Pilot G2 Gel Pens,350.61,63
+61,Breville Barista Express,218.58,14
+62,Bose QuietComfort Earbuds,146.41,56
+63,Gillette Fusion5 Razor,140.16,89
+64,Neutrogena Hydro Boost Water Gel,454.74,52
+65,Canon EOS R6 Camera,132.77,71
+66,Kellogg’s Frosted Flakes,166.62,49
+67,Xbox Series X,242.69,21
+68,Garmin Forerunner 955,87.96,38
+69,Apple iPhone 14,223.88,54
+70,Hellmann’s Real Mayonnaise,461.8,22
+71,Funko Pop! Spider-Man,102.79,30
+72,Lay’s Classic Potato Chips,120.44,43
+73,PlayStation 5,489.26,29
+74,Coca-Cola Zero Sugar,74.2,33
+75,Pampers Swaddlers Size 4,460.91,4
+76,Nike Air Max 270,365.68,76
+77,Energizer AA Batteries,302.27,63
+78,Heinz Tomato Ketchup,394.1,74
+79,Google Nest Hub Max,345.68,99
+80,Starbucks Pike Place Roast,178.8,62
+81,Energizer AA Batteries,13.01,15
+82,Fitbit Charge 6,193.4,40
+83,Dell XPS 15 Laptop,85.23,7
+84,Kind Dark Chocolate Nuts & Sea Salt,216.82,79
+85,Gillette Fusion5 Razor,344.09,20
+86,Blink Outdoor Camera,215.9,59
+87,Huggies Little Snugglers Diapers,57.59,28
+88,Scotch Heavy Duty Packaging Tape,414.34,28
+89,Fitbit Charge 6,269.08,8
+90,Pampers Swaddlers Size 4,307.91,78
+91,Bose QuietComfort Earbuds,169.49,98
+92,Fitbit Charge 6,181.05,88
+93,MacBook Pro 16-inch,194.47,59
+94,LG OLED55C3 TV,203.34,8
+95,Amazon Echo Show 10,234.35,73
+96,Steam Deck,19.82,71
+97,Fitbit Charge 6,48.07,31
+98,Fitbit Charge 6,188.46,53
+99,Pampers Swaddlers Size 4,218.82,81
+100,Amazon Echo Show 10,120.53,10
+101,LEGO Star Wars Millennium Falcon,329.07,35
+102,Funko Pop! Spider-Man,337.98,99
+103,Gatorade Thirst Quencher,264.75,30
+104,Ziploc Freezer Bags,131.21,96
+105,Quaker Oats Instant Oatmeal,42.12,45
+106,Folgers Classic Roast Coffee,108.14,33
+107,Samsung Galaxy S23,447.27,73
+108,Barilla Spaghetti Pasta,411.48,82
+109,Gillette Fusion5 Razor,50.98,26
+110,Dove Deep Moisture Body Wash,210.73,9
+111,Apple iPhone 14,205.19,80
+112,Ring Video Doorbell Pro 2,233.23,95
+113,Nintendo Switch OLED,473.74,39
+114,Ben & Jerry’s Chocolate Fudge Brownie,157.0,73
+115,Instant Pot Duo 7-in-1,58.45,49
+116,Ben & Jerry’s Chocolate Fudge Brownie,435.09,15
+117,Nature Made Vitamin D3,128.21,79
+118,Jif Creamy Peanut Butter,223.64,42
+119,Glad ForceFlex Trash Bags,493.36,75
+120,Dyson V15 Detect Vacuum,145.77,27
+121,Xbox Series X,23.85,44
+122,Samsung Galaxy Watch 6,49.69,3
+123,Tylenol Extra Strength,196.38,96
+124,Adidas Ultraboost,462.93,56
+125,Funko Pop! Spider-Man,450.03,85
+126,Ben & Jerry’s Chocolate Fudge Brownie,171.99,10
+127,Scotch Heavy Duty Packaging Tape,445.53,11
+128,Razer BlackWidow Keyboard,488.35,67
+129,Blink Outdoor Camera,494.19,81
+130,Ring Video Doorbell Pro 2,358.94,7
+131,Samsung Galaxy S23,160.09,2
+132,Elmer’s Glue-All,78.36,64
+133,Blink Outdoor Camera,162.19,60
+134,Barilla Spaghetti Pasta,315.05,14
+135,Crayola 24-Count Crayons,41.62,57
+136,Elmer’s Glue-All,492.04,67
+137,LG OLED55C3 TV,70.03,60
+138,Gatorade Thirst Quencher,305.36,68
+139,Charmin Ultra Soft Toilet Paper,302.15,33
+140,Lay’s Classic Potato Chips,468.04,48
+141,iRobot Roomba j7+,38.62,83
+142,Jif Creamy Peanut Butter,61.47,60
+143,GoPro Hero 11 Black,68.9,69
+144,Lay’s Classic Potato Chips,167.91,6
+145,Sony WH-1000XM5 Headphones,195.84,24
+146,MacBook Pro 16-inch,40.15,91
+147,Nike Air Max 270,145.22,11
+148,Google Nest Hub Max,467.41,48
+149,Nintendo Switch OLED,252.95,30
+150,Haagen-Dazs Vanilla Ice Cream,42.35,59
+151,Kind Dark Chocolate Nuts & Sea Salt,28.18,75
+152,Nespresso Vertuo Coffee Maker,110.47,75
+153,Haagen-Dazs Vanilla Ice Cream,356.33,1
+154,Scotch Heavy Duty Packaging Tape,204.51,22
+155,Scotch Heavy Duty Packaging Tape,44.44,14
+156,Elmer’s Glue-All,97.33,6
+157,Sharpie Fine Point Markers,473.75,58
+158,Haagen-Dazs Vanilla Ice Cream,175.92,37
+159,Bose QuietComfort Earbuds,448.54,33
+160,Doritos Nacho Cheese,490.34,23
+161,Lay’s Classic Potato Chips,226.74,26
+162,Pepsi Wild Cherry,201.52,41
+163,Xbox Series X,435.55,28
+164,Sony WH-1000XM5 Headphones,184.1,28
+165,Energizer AA Batteries,7.57,4
+166,Breville Barista Express,273.35,55
+167,Anker PowerCore 20000,152.83,25
+168,Heinz Tomato Ketchup,136.1,66
+169,Philips Hue Smart Light,68.95,6
+170,Kind Dark Chocolate Nuts & Sea Salt,205.4,83
+171,Charmin Ultra Soft Toilet Paper,165.01,98
+172,Lay’s Classic Potato Chips,412.95,73
+173,Ben & Jerry’s Chocolate Fudge Brownie,468.86,7
+174,PlayStation 5,448.82,22
+175,Amazon Echo Show 10,171.82,82
+176,Kind Dark Chocolate Nuts & Sea Salt,133.58,22
+177,Philips Hue Smart Light,252.83,41
+178,Quaker Oats Instant Oatmeal,447.49,2
+179,Apple Watch Series 9,433.06,56
+180,Tide Pods Laundry Detergent,171.91,88
+181,Tide Pods Laundry Detergent,469.16,66
+182,Tylenol Extra Strength,452.01,74
+183,Advil Liquid Gels,17.43,23
+184,Sharpie Fine Point Markers,374.93,33
+185,Nike Air Max 270,307.6,43
+186,Tide Pods Laundry Detergent,203.59,14
+187,Tylenol Extra Strength,202.47,34
+188,Ring Video Doorbell Pro 2,449.35,21
+189,Coca-Cola Zero Sugar,191.09,4
+190,Jif Creamy Peanut Butter,92.69,45
+191,Jif Creamy Peanut Butter,159.44,53
+192,Breville Barista Express,7.63,70
+193,Nespresso Vertuo Coffee Maker,262.94,7
+194,Bounty Quick-Size Paper Towels,130.04,41
+195,Glad ForceFlex Trash Bags,448.84,15
+196,Huggies Little Snugglers Diapers,457.01,51
+197,Downy Ultra Fabric Softener,144.64,57
+198,Coca-Cola Zero Sugar,276.96,88
+199,Instant Pot Duo 7-in-1,40.16,62
+200,PlayStation 5,431.58,65
