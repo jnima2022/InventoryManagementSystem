@@ -58,14 +58,14 @@ A desktop application built to manage product inventory, featuring a user-friend
 - Git (optional, for cloning the repository).
 
 ## Usage
-    - Start: Launch the JAR, and the table will populate with products after a brief delay (ensuring the backend is ready).
-    - Add: Enter a name, price, and quantity, then click the green "Add Product" button.
-    - Update: Select a product, modify the fields, and click the orange "Update Selected" button.
-    - Delete: Select a product and click the red "Delete Selected" button.
-    - Search: Type a name in the search field and click the green "Search" button, or press Enter. Clear the filter with the red "Clear Search" button.
+  - Start: Launch the JAR, and the table will populate with products after a brief delay (ensuring the backend is ready).
+  - Add: Enter a name, price, and quantity, then click the green "Add Product" button.
+  - Update: Select a product, modify the fields, and click the orange "Update Selected" button.
+  - Delete: Select a product and click the red "Delete Selected" button.
+  - Search: Type a name in the search field and click the green "Search" button, or press Enter. Clear the filter with the red "Clear Search" button.
 ---
 - Demo:
-[Click here to watch the demo]([https://private-user-images.githubusercontent.com/121528869/418371648-28b60d50-0ca6-497d-a69c-5fa17e4153d9.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5NDIzMzEsIm5iZiI6MTc0MDk0MjAzMSwicGF0aCI6Ii8xMjE1Mjg4NjkvNDE4MzcxNjQ4LTI4YjYwZDUwLTBjYTYtNDk3ZC1hNjljLTVmYTE3ZTQxNTNkOS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMlQxOTAwMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjM1MmI0NzhkYjAzYjBmZjkyNzYyMmE3ZDdlOWUyNjllYzE3OWQ2MDYxOTgzYTE4ODFlMTI4MGY3MjM4ODQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wccumJ97gsjYCwAR6w6whGqutiq9n7wcwEhK7OEJH8s](https://private-user-images.githubusercontent.com/121528869/418371648-28b60d50-0ca6-497d-a69c-5fa17e4153d9.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5NDI3MzQsIm5iZiI6MTc0MDk0MjQzNCwicGF0aCI6Ii8xMjE1Mjg4NjkvNDE4MzcxNjQ4LTI4YjYwZDUwLTBjYTYtNDk3ZC1hNjljLTVmYTE3ZTQxNTNkOS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMlQxOTA3MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzQ1MmJhMzdiMTUwYWU3ZWQzOWUxY2ZlMWZjZmE4ZGU2NWM0MDZkNDgzNDMwZjUxNDE4OGQ2ZDRlMmJhZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1_WkHPqiQmZx0cIUGEc678dixSgdKieCocQ8bFoJvbA))
+[Click here to watch the demo](https://private-user-images.githubusercontent.com/121528869/418371648-28b60d50-0ca6-497d-a69c-5fa17e4153d9.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5NDI4NDIsIm5iZiI6MTc0MDk0MjU0MiwicGF0aCI6Ii8xMjE1Mjg4NjkvNDE4MzcxNjQ4LTI4YjYwZDUwLTBjYTYtNDk3ZC1hNjljLTVmYTE3ZTQxNTNkOS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMlQxOTA5MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDhhOGU2ZmU3ZmRkMDA4YmM2YjBmOTdlYjhlNmZlZTU3N2Y4NzI0YzFhZjBkYjI5OWM1ZDcwNzY0MmIwYWFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7UWVb75SOkDpVY7GXHiSWeHuYfld0yF9djxUIPJxNP0)
 
 ---
 
