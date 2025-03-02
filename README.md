@@ -65,7 +65,7 @@ A desktop application built to manage product inventory, featuring a user-friend
   - Search: Type a name in the search field and click the green "Search" button, or press Enter. Clear the filter with the red "Clear Search" button.
 ---
 - Demo:
-[Click here to watch the demo](https://private-user-images.githubusercontent.com/121528869/418371648-28b60d50-0ca6-497d-a69c-5fa17e4153d9.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5NDI4NDIsIm5iZiI6MTc0MDk0MjU0MiwicGF0aCI6Ii8xMjE1Mjg4NjkvNDE4MzcxNjQ4LTI4YjYwZDUwLTBjYTYtNDk3ZC1hNjljLTVmYTE3ZTQxNTNkOS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMlQxOTA5MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDhhOGU2ZmU3ZmRkMDA4YmM2YjBmOTdlYjhlNmZlZTU3N2Y4NzI0YzFhZjBkYjI5OWM1ZDcwNzY0MmIwYWFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7UWVb75SOkDpVY7GXHiSWeHuYfld0yF9djxUIPJxNP0)
+[Click here to watch the demo](https://github.com/jnima2022/InventoryManagementSystem/issues/1#issue-2889726395)
 
 ---
 
